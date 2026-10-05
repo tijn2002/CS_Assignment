@@ -9,8 +9,10 @@ Student ID: 17036186
 
 <figure>
   <img src="fig1.png">
-  <figcaption>A very scientific correlation between the amount of students in the Netherlands and general beer consumption."</figcaption>
 </figure>
+
+There seems to be a correlation between the total dutch beer consumption and the amount of students in higher education, but no actual conclusion can be drawn. Student population forms a small fraction of total drinkers in the Netherlands and is unlikely to be so impactful on the total liters of beer consumed.
+
 
 
 
